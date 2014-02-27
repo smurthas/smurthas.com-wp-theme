@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: inLine Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-19 21:59-0500\n"
+"PO-Revision-Date: 2011-08-19 21:59-0500\n"
+"Last-Translator: Thomas Griffin <jthomas.griffin@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/inline/wp-content/themes/inline/\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lib/admin/admin-settings.php:131
+msgid "inLine Settings"
+msgstr ""
+
+#: lib/admin/admin-settings.php:156
+msgid "inLine Theme Settings"
+msgstr ""
+
+#: lib/admin/admin-settings.php:157
+msgid "Minimal Design. Minimal Theme. inLine."
+msgstr ""
+
+#: lib/admin/admin-settings.php:158
+msgid "inLine Documentation and Support"
+msgstr ""
+
+#: lib/admin/admin-settings.php:168
+#, php-format
+msgid "Your theme settings have been saved! <a href=\"%s\">Check out your site now!</a>"
+msgstr ""
+
+#: lib/admin/admin-settings.php:227
+msgid "This theme was built by Thomas Griffin from <a href=\"http://thomasgriffinmedia.com/\" title=\"Thomas Griffin Media\" target=\"_blank\">Thomas Griffin Media</a>"
+msgstr ""
+
+#: lib/build/comments.php:48
+msgid "Add your comment &rarr;"
+msgstr ""
+
+#: lib/build/comments.php:91
+msgid "Pingbacks"
+msgstr ""
+
+#: lib/build/comments.php:141
+#, php-format
+msgid "<span class=\"says\">%1$s</span> <cite class=\"fn\">%2$s</cite>"
+msgstr ""
+
+#: lib/build/comments.php:141
+msgid "By: "
+msgstr ""
+
+#: lib/build/comments.php:144
+msgid "Reply &rarr;"
+msgstr ""
+
+#: lib/build/comments.php:148
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: lib/build/comments.php:153
+msgid "Author"
+msgstr ""
+
+#: lib/build/comments.php:158
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: lib/build/comments.php:158
+msgid "(Edit)"
+msgstr ""
+
+#: lib/build/comments.php:213
+msgid "Submit Comment"
+msgstr ""
+
+#: lib/build/comments.php:214
+msgid "Cancel Reply"
+msgstr ""
+
+#: lib/build/comments.php:215
+msgid "Leave your comment below!"
+msgstr ""
+
+#: lib/build/footer.php:38
+msgid "Powered by the inLine Minimal WordPress Theme"
+msgstr ""
+
+#: lib/build/header.php:25
+msgid "<!DOCTYPE html>"
+msgstr ""
+
+#: lib/build/header.php:62
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: lib/build/post.php:104
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: lib/build/post.php:107
+msgid "By "
+msgstr ""
+
+#: lib/build/post.php:110
+msgid "|"
+msgstr ""
+
+#: lib/build/post.php:127
+msgid "Be the first to comment!"
+msgstr ""
+
+#: lib/build/post.php:129
+msgid " Comments"
+msgstr ""
+
+#: lib/build/post.php:131
+msgid "1 Comment"
+msgstr ""
+
+#: lib/build/post.php:164
+msgid "post-thumb"
+msgstr ""
+
+#: lib/build/post.php:192
+msgid "post-full-template-mid"
+msgstr ""
+
+#: lib/build/post.php:198
+msgid "post-full-template-side"
+msgstr ""
+
+#: lib/build/post.php:204
+msgid "post-full-width"
+msgstr ""
+
+#: lib/build/post.php:210
+msgid "post-full"
+msgstr ""
+
+#: lib/build/post.php:251
+msgid "Continue Reading &rarr;"
+msgstr ""
+
+#: lib/build/post.php:274
+#, php-format
+msgid "We are sorry, but it seems that you have reached this page in error. You can <a href=\"%s\">return to the homepage</a> or make a search below to find the correct page."
+msgstr ""
+
+#: lib/build/post.php:297
+msgid "<span>View More Pages: </span>"
+msgstr ""
+
+#: lib/build/post.php:300
+msgid "&rarr;"
+msgstr ""
+
+#: lib/build/post.php:301
+msgid "&larr;"
+msgstr ""
+
+#: lib/build/post.php:326
+msgid "Tagged as: "
+msgstr ""
+
+#: lib/build/post.php:420
+msgid "View More Posts:"
+msgstr ""
+
+#: lib/build/sidebar.php:44
+msgid "Primary Sidebar Area"
+msgstr ""
+
+#: lib/build/sidebar.php:47
+#, php-format
+msgid "This is the primary sidebar area. Go to your <a href=\"%s\">Widgets Panel</a> and start dragging in widgets to make the sidebar active."
+msgstr ""
+
+#: lib/build/sidebar.php:105
+msgid "Alternate Sidebar Area"
+msgstr ""
+
+#: lib/build/sidebar.php:108
+#, php-format
+msgid "This is the alternate sidebar area. Go to your <a href=\"%s\">Widgets Panel</a> and start dragging in widgets to make the sidebar active."
+msgstr ""
+
+#: lib/build/top-section.php:53
+msgid "The Blog"
+msgstr ""
+
+#: lib/build/top-section.php:71
+msgid "You searched for: "
+msgstr ""
+
+#: lib/build/top-section.php:77
+msgid "No results found for: "
+msgstr ""
+
+#: lib/build/top-section.php:91
+msgid "Error 404: Page Not Found"
+msgstr ""
+
+#: lib/build/top-section.php:98
+msgid "Viewing posts from: "
+msgstr ""
+
+#: lib/functions/search.php:49
+msgid "We are sorry, but it seems that your search has returned no results. Please try again using the search form below."
+msgstr ""
+
+#: lib/resources/page-archives-template.php:87
+msgid "Archives by Month:"
+msgstr ""
+
+#: lib/resources/page-archives-template.php:95
+msgid "25 Most Recent Posts"
+msgstr ""
+
+#: lib/resources/page-archives-template.php:150
+msgid "Archives by Category:"
+msgstr ""
+
+#: lib/resources/page-archives-template.php:158
+msgid "Archives by Author:"
+msgstr ""
+
+#: lib/resources/page-archives-template.php:195
+msgid "You can also search the site using the form below:"
+msgstr ""
+
+#: lib/resources/post-template-setup.php:100
+msgid "Post Templates"
+msgstr ""
+
+#: lib/resources/post-template-setup.php:114
+msgid "Post Template"
+msgstr ""
+
+#: lib/resources/post-template-setup.php:119
+msgid "You can change the layout of individual posts by selecting one of the options from the field above."
+msgstr ""
+

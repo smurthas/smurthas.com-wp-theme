@@ -1,0 +1,66 @@
+/**
+ *
+ * This file loads our admin css styles for our the inLine theme options.
+ *
+ * Everything is prefixed with the wrapper to make sure that this only affects our specific theme option styles.
+ *
+ * @package inLine
+ *
+ */
+
+/* :..[ Wrapper and Globals ]..: */
+#inline-options-wrapper { font-family: Helvetica Neue, Helvetica, Arial, sans-serif; text-shadow: 0 1px #fff; }
+#inline-options-wrapper .wrap { margin-right: 20px; }
+#inline-options-wrapper .wrap a { -moz-transition: color .15s linear; -webkit-transition: color .15s linear; -o-transition: color .15s linear; transition: color .2s linear; outline: none; }
+#inline-options-wrapper .wrap a:hover { color: #f26536; }
+#inline-options-wrapper select { padding: 3px; }
+
+/* :..[ Header ]..: */
+#inline-options-wrapper .head-wrap { margin: 0; padding: 0; overflow: hidden; }
+#inline-options-wrapper .header { text-shadow: 0 1px #fff; height: 45px; margin-bottom: 20px; }
+#inline-options-wrapper .icon32 { margin-top: 7px; }
+#inline-options-wrapper .header h2 { float: left; font-size: 23px; line-height: 29px; font-family: HelveticaNeue-Light, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, sans-serif; padding-top: 9px; font-weight: normal; font-style: normal; }
+#inline-options-wrapper .tag { font-size: 14px; float: left; padding-top: 17px; }
+#inline-options-wrapper .support { float: right; padding-top: 18px; text-decoration: none; }
+
+/* :..[ Promote Soliloquy ]..: */
+#inline-options-wrapper .promote-soliloquy { margin-bottom: 20px; overflow: hidden; }
+#inline-options-wrapper .logo-area { display: block; height: 62px; margin: 0 auto; outline: none; width: 300px; }
+#inline-options-wrapper .promote-soliloquy p { font-size: 14px; line-height: 20px; text-align: center; text-shadow: none; }
+
+/* :..[ Version Warning ]..: */
+#inline-options-wrapper .warning { background: #FBE3E4; border: 1px solid #FCCACC; color: #D12F19; padding: 20px; }
+#inline-options-wrapper .warning p { font-size: 18px; text-align: center; }
+
+/* :..[ Main Content ]..: */
+#inline-options-wrapper .main-content { padding: 0 20px 5px 20px; background: #fff; border: 1px solid #eaeaea; -moz-border-radius: 6px; -webkit-border-radius: 6px; border-radius: 6px; clear: both; margin-bottom: 20px; }
+#inline-options-wrapper .main-content p { font-size: 13px; margin: 0 0 15px; }
+#inline-options-wrapper .main-content h3 { color: #464646; font-size: 22px; border-top: 1px dashed #dadada; border-bottom: 1px dashed #dadada; padding: 15px 0 15px 20px; background: #f7f7f7; font-weight: 300; clear: both; }
+#inline-options-wrapper .main-content .inline { display: inline; padding: 0 10px; }
+#inline-options-wrapper .main-content p.intro { float: right; width: 250px; margin: 0 0 20px 20px; padding: 20px; background: #f7f7f7; -moz-border-radius: 18px; -webkit-border-radius: 18px; border-radius: 18px; }
+#inline-options-wrapper .main-content p.intro span { color: #f26536; }
+
+/* :..[ Table Styling ]..: */
+#inline-options-wrapper .form-table { margin: 2px 0 20px; width: 700px; display: inline-table; }
+#inline-options-wrapper .form-table tbody { border-top: 1px solid #eaeaea; }
+#inline-options-wrapper .form-table tr { border-bottom: 1px solid #eaeaea; }
+#inline-options-wrapper .form-table tr:nth-child(odd) { background: #F4FAFF; }
+#inline-options-wrapper .form-table tr:nth-child(even) { background: #fff; }
+#inline-options-wrapper .form-table th, #inline-options-wrapper .form-table td { vertical-align: middle !important; }
+#inline-options-wrapper .form-table td span.info { margin-left: 5px; font-style: italic; font-size: 11px; }
+#inline-options-wrapper .form-table td p.script { font-size: 13px; margin-bottom: 0; }
+
+/* :..[ Updated Messages ]..: */
+#inline-options-wrapper .settings-updated { border: 1px solid #BAD3A1; -moz-border-radius: 6px; -webkit-border-radius: 6px; border-radius: 6px; background: #EEF8E4; margin-bottom: 20px; padding: 0 20px; }
+#inline-options-wrapper .settings-updated p { font-size: 14px; text-shadow: 0 1px #fff; }
+#inline-options-wrapper .submit { padding: 0; clear: both; }
+#inline-options-wrapper .submit.top { margin: 20px 0; }
+
+/* :..[ Donate Section ]..: */
+#inline-options-wrapper .donate { font-family: Helvetica Neue, Helvetica, Arial; clear: both; }
+#inline-options-wrapper .donate p { text-align: center; }
+#inline-options-wrapper .tgm-donate { width: 256px; height: 56px; text-indent: -9999px; display: block; margin: 0 auto; clear: both; background: url('images/donate.png') no-repeat scroll 0 0; }
+#inline-options-wrapper .tgm-donate:hover { background-position: 0 -56px; }
+#inline-options-wrapper .tgm-donate a { display: block; outline: none; width: 256px; height: 56px; }
+#inline-options-wrapper .donate .remove { text-align: center; font-size: 11px; clear: both; margin-top: 25px; }
+#inline-options-wrapper .donate code { width: 410px; margin: 0 auto; text-align: center; display: block; padding: 3px 3px 1px; }
